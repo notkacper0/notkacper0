@@ -1,3 +1,4 @@
+
 <pre>
 . . .-. .-. . . .-. .-. .-. .-. .-. 
 |\| | |  |  |<  |-| |   |-' |-  |(  
@@ -20,7 +21,7 @@
 | - Code editors: vim, intellij;                                              |
 | - Distros: void linux, alpine linux, debian linux, arch linux, fedora linux,|
 |   gentoo;                                                                   |
-| - Other: linux, windows;                                                    |
+| - Other: windows;                                                           |
 +-----------------------------------------------------------------------------+
 
 > 2. Current projects
